@@ -17,3 +17,6 @@ env/
 
 # Logs
 *.log
+
+# Model checkpoints
+*.pth
