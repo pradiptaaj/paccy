@@ -1,18 +1,4 @@
-"""
 
-HOW TO USE
-
-1.  Run training:
-        python pacman_rl.py --mode train
-2.  Watch the trained agent play:
-        python pacman_rl.py --mode play
-3.  Continue training from a checkpoint:
-        python pacman_rl.py --mode train --model pacman_dqn.pth
-
-Requires:  torch  numpy  pygame  tcod
-    pip install torch numpy pygame tcod
-
-"""
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Imports
